@@ -6,5 +6,7 @@ public class Deneme01 {
         // versiyon kdbkdb
         System.out.println("github deneme");
         System.out.println("ikinci dneme");
+
+        // deneme 4git
     }
 }
